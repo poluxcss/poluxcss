@@ -77,6 +77,51 @@
   color: #101828;
 }
 
+/* Error */
+
+.text-error-25 {
+  color: #FFFBFA;
+}
+
+.text-error-50 {
+  color: #FEF3F2;
+}
+
+.text-error-100 {
+  color: #FEE4E2;
+}
+
+.text-error-200 {
+  color: #FECDCA;
+}
+
+.text-error-300 {
+  color: #FDA29B;
+}
+
+.text-error-400 {
+  color: #F97066;
+}
+
+.text-error-500 {
+  color: #F04438;
+}
+
+.text-error-600 {
+  color: #D92D20;
+}
+
+.text-error-700 {
+  color: #B42318;
+}
+
+.text-error-800 {
+  color: #912018;
+}
+
+.text-error-900 {
+  color: #7A271A;
+}
 
 
 
