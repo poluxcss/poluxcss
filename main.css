@@ -175,5 +175,50 @@
   color: #FFFCF5;
 }
 
+.text-warning-50 {
+  color: #FFFAEB;
+}
 
+.text-warning-100 {
+  color: #FEF0C7;
+}
 
+.text-warning-200 {
+  color: #FEDF89;
+}
+
+.text-warning-300 {
+  color: #FEC84B;
+}
+
+.text-warning-400 {
+  color: #FDB022;
+}
+
+.text-warning-500 {
+  color: #F79009;
+}
+
+.text-warning-600 {
+  color: #DC6803;
+}
+
+.text-warning-700 {
+  color: #B54708;
+}
+
+.text-warning-800 {
+  color: #93370D;
+}
+
+.text-warning-900 {
+  color: #7A2E0E;
+}
+
+/* Success */
+
+.text-success-25 {
+  color: #F6FEF9;
+
+.text-success-50 {
+  color: #ECFDF3;
