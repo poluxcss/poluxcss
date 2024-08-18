@@ -30,6 +30,183 @@
   font-style: normal;
 }
 
+/* Buttons */
+
+.button {
+  display: inline-block;
+}
+
+/* Button Color */
+
+/* Grey */
+.button-gray-25 {
+  color: #FCFCFD;
+}
+
+.button-gray-50 {
+  color: #F9FAFB;
+}
+
+.button-gray-100 {
+  color: F2F4F7;
+}
+
+.button-gray-200 {
+  color: #E4E7EC;
+}
+
+.button-gray-300 {
+  color: #D0D5DD;
+}
+
+.button-gray-400 {
+  color: #98A2B3;
+}
+
+.button-gray-500 {
+  color: #667085;
+}
+
+.button-gray-600 {
+  color: #475467;
+}
+
+.button-gray-700 {
+  color: #344054;
+}
+
+.button-gray-800 {
+  color: #1D2939;
+}
+
+.button-gray-900 {
+  color: #101828;
+}
+
+/* Error */
+
+.button-error-25 {
+  color: #FFFBFA;
+}
+
+.button-error-50 {
+  color: #FEF3F2;
+}
+
+.button-error-100 {
+  color: #FEE4E2;
+}
+
+.button-error-200 {
+  color: #FECDCA;
+}
+
+.button-error-300 {
+  color: #FDA29B;
+}
+
+.button-error-400 {
+  color: #F97066;
+}
+
+.button-error-500 {
+  color: #F04438;
+}
+
+.button-error-600 {
+  color: #D92D20;
+}
+
+.button-error-700 {
+  color: #B42318;
+}
+
+.button-error-800 {
+  color: #912018;
+}
+
+.button-error-900 {
+  color: #7A271A;
+}
+
+/* Warning */
+
+.button-warning-25 {
+  color: #FFFCF5;
+}
+
+.button-warning-50 {
+  color: #FFFAEB;
+}
+
+.button-warning-100 {
+  color: #FEF0C7;
+}
+
+.button-warning-200 {
+  color: #FEDF89;
+}
+
+.button-warning-300 {
+  color: #FEC84B;
+}
+
+.button-warning-400 {
+  color: #FDB022;
+}
+
+.button-warning-500 {
+  color: #F79009;
+}
+
+.button-warning-600 {
+  color: #DC6803;
+}
+
+.button-warning-700 {
+  color: #B54708;
+}
+
+.button-warning-800 {
+  color: #93370D;
+}
+
+.button-warning-900 {
+  color: #7A2E0E;
+}
+
+/* Success */
+
+.button-success-25 {
+  color: #F6FEF9;
+
+.button-success-50 {
+  color: #ECFDF3;
+
+.button-success-100 {
+  color: #D1FADF;
+
+.button-success-200 {
+  color: #A6F4C5;
+
+.button-success-300 {
+  color: #6CE9A6;
+
+.button-success-400 {
+  color: #32D583;
+
+.button-success-500 {
+  color: #12B76A;
+
+.button-success-600 {
+  color: #039855;
+
+.button-success-700 {
+  color: #027A48;
+
+.button-success-800 {
+  color: #05603A;
+
 /* Font Sizes */
 
 .text-display-2xl {
@@ -243,3 +420,6 @@
 
 .text-success-700 {
   color: #027A48;
+
+.text-success-800 {
+  color: #05603A;
