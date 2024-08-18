@@ -217,7 +217,7 @@
 /* Font Sizes */
 
 .text-display-2xl {
-  font-size: 72px;
+  font-size: 72px !important;
 }
 
 .text-display-xl {
