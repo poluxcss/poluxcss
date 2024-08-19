@@ -43,184 +43,198 @@
     border-radius: 5px;
 }
 
-/* Button Color */
+/* Card */
+
+.card {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;    
+  background-color: blue;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px black;
+}
+
+/* Backgorund Color */
 
 /* Grey */
-.button-gray-25 {
+.background-gray-25 {
   background-color: #FCFCFD;
 }
 
-.button-gray-50 {
+.background-gray-50 {
   background-color: #F9FAFB;
 }
 
-.button-gray-100 {
+.background-gray-100 {
   background-color: F2F4F7;
 }
 
-.button-gray-200 {
+.background-gray-200 {
   background-color: #E4E7EC;
 }
 
-.button-gray-300 {
+.background-gray-300 {
   background-color: #D0D5DD;
 }
 
-.button-gray-400 {
+.background-gray-400 {
   background-color: #98A2B3;
 }
 
-.button-gray-500 {
+.background-gray-500 {
   background-color: #667085;
 }
 
-.button-gray-600 {
+.background-gray-600 {
   background-color: #475467;
 }
 
-.button-gray-700 {
+.background-gray-700 {
   background-color: #344054;
 }
 
-.button-gray-800 {
+.background-gray-800 {
   background-color: #1D2939;
 }
 
-.button-gray-900 {
+.background-gray-900 {
   background-color: #101828;
 }
 
 /* Error */
 
-.button-error-25 {
+.background-error-25 {
   background-color: #FFFBFA;
 }
 
-.button-error-50 {
+.background-error-50 {
   background-color: #FEF3F2;
 }
 
-.button-error-100 {
+.background-error-100 {
   background-color: #FEE4E2;
 }
 
-.button-error-200 {
+.background-error-200 {
   background-color: #FECDCA;
 }
 
-.button-error-300 {
+.background-error-300 {
   background-color: #FDA29B;
 }
 
-.button-error-400 {
+.background-error-400 {
   background-color: #F97066;
 }
 
-.button-error-500 {
+.background-error-500 {
   background-color: #F04438;
 }
 
-.button-error-600 {
+.background-error-600 {
   background-color: #D92D20;
 }
 
-.button-error-700 {
+.background-error-700 {
   background-color: #B42318;
 }
 
-.button-error-800 {
+.background-error-800 {
   background-color: #912018;
 }
 
-.button-error-900 {
+.background-error-900 {
   background-color: #7A271A;
 }
 
 /* Warning */
 
-.button-warning-25 {
+.background-warning-25 {
   background-color: #FFFCF5;
 }
 
-.button-warning-50 {
+.background-warning-50 {
   background-color: #FFFAEB;
 }
 
-.button-warning-100 {
+.background-warning-100 {
   background-color: #FEF0C7;
 }
 
-.button-warning-200 {
+.background-warning-200 {
   background-color: #FEDF89;
 }
 
-.button-warning-300 {
+.background-warning-300 {
   background-color: #FEC84B;
 }
 
-.button-warning-400 {
+.background-warning-400 {
   background-color: #FDB022;
 }
 
-.button-warning-500 {
+.background-warning-500 {
   background-color: #F79009;
 }
 
-.button-warning-600 {
+.background-warning-600 {
   background-color: #DC6803;
 }
 
-.button-warning-700 {
+.background-warning-700 {
   background-color: #B54708;
 }
 
-.button-warning-800 {
+.background-warning-800 {
   background-color: #93370D;
 }
 
-.button-warning-900 {
+.background-warning-900 {
   background-color: #7A2E0E;
 }
 
 /* Success */
 
-.button-success-25 {
+.background-success-25 {
   background-color: #F6FEF9;
 }
 
-.button-success-50 {
+.background-success-50 {
   background-color: #ECFDF3;
 }
 
-.button-success-100 {
+.background-success-100 {
   background-color: #D1FADF;
 }
 
-.button-success-200 {
+.background-success-200 {
   background-color: #A6F4C5;
 }
 
-.button-success-300 {
+.background-success-300 {
   background-color: #6CE9A6;
 }
 
-.button-success-400 {
+.background-success-400 {
   background-color: #32D583;
 }
 
-.button-success-500 {
+.background-success-500 {
   background-color: #12B76A;
 }
 
-.button-success-600 {
+.background-success-600 {
   background-color: #039855;
 }
 
-.button-success-700 {
+.background-success-700 {
   background-color: #027A48;
 }
 
-.button-success-800 {
+.background-success-800 {
   background-color: #05603A;
 }
 
